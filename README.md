@@ -15,7 +15,7 @@ This folder contains my JavaScript practice files where I'm learning and experim
 - Datatypes_Summary.js → Recap of data types
 - test.js → Testing and checking outputs
 
-**01_Basics/02_Basics/**
+**02_Basics/**
 - 01_arrays.js → Array merging, spread, push, etc.
 - 02_arrays.js → Array.from, Array.of, flat(), isArray()
 
