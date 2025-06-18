@@ -21,6 +21,12 @@ This folder contains my JavaScript practice files where I'm learning and experim
 - 03_objects.js – Object literals, symbols, freeze, and method declaration
 - 04_objects.js – Object constructor, nested objects, Object.assign(), destructuring, and JSON/API basics
 
+**03_Basics/**
+- 01_functions.js – Function creation, parameters, return values, default/rest operators, object arguments
+- 02_scope.js – Block vs function vs global scope, var/let/const, hoisting behavior
+- 03_arrow.js – `this` keyword inside functions & objects, arrow functions, object return in arrow functions
+
+
 ## Notes
 
 - This is just my personal learning space.
