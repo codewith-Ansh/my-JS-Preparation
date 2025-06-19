@@ -25,7 +25,7 @@ This folder contains my JavaScript practice files where I'm learning and experim
 - 01_functions.js – Function creation, parameters, return values, default/rest operators, object arguments
 - 02_scope.js – Block vs function vs global scope, var/let/const, hoisting behavior
 - 03_arrow.js – `this` keyword inside functions & objects, arrow functions, object return in arrow functions
-
+- 04_IIFE.js – IIFE basics, arguments, arrow IIFE
 
 ## Notes
 
