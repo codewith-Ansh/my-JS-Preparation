@@ -27,6 +27,11 @@ This folder contains my JavaScript practice files where I'm learning and experim
 - 03_arrow.js – `this` keyword inside functions & objects, arrow functions, object return in arrow functions
 - 04_IIFE.js – IIFE basics, arguments, arrow IIFE
 
+**04_ControlFlow/**
+- 01_checks.js – Comparison operators, if-else, else-if conditions
+- 02_switch.js – Switch statement with number and string cases
+- 03_truthy.js – Truthy/falsy values, nullish coalescing operator, ternary operator
+
 ## Notes
 
 - This is just my personal learning space.
