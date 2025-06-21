@@ -32,6 +32,10 @@ This folder contains my JavaScript practice files where I'm learning and experim
 - 02_switch.js – Switch statement with number and string cases
 - 03_truthy.js – Truthy/falsy values, nullish coalescing operator, ternary operator
 
+**05_Iterations/**
+- 01_forLoop.js – for loop, nested for loop, array in loop
+- 02_while_doWhile.js – while loop, array in while loop, do while loop
+
 ## Notes
 
 - This is just my personal learning space.
