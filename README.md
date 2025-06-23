@@ -36,6 +36,9 @@ This folder contains my JavaScript practice files where I'm learning and experim
 - 01_forLoop.js – for loop, nested for loop, array in loop
 - 02_while_doWhile.js – while loop, array in while loop, do while loop
 - 03_for_of.js – for-of loop basics, it's applications for Map object
+- 04_for_in.js – for-in loop with object, array; limitation with Map object
+- 05_for_each.js – forEach loop with arrays, callback functions, and array of objects
+
 
 ## Notes
 
