@@ -42,6 +42,11 @@ This folder contains my JavaScript practice files where I'm learning and experim
 - 07_map.js – map method basics, value transformation  
 - 08_reduce.js – reduce method, accumulator and result
 
+**06_dom/**
+- one.html – Explored element selection by id/class, innerText vs textContent, and styling
+- two.html – Practiced DOM traversal using children, parentElement, and sibling navigation
+- three.html – Dynamically created and styled elements using createElement and appendChild
+
 ## Notes
 
 - This is just my personal learning space.
