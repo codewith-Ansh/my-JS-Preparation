@@ -46,6 +46,7 @@ This folder contains my JavaScript practice files where I'm learning and experim
 - one.html – Explored element selection by id/class, innerText vs textContent, and styling
 - two.html – Practiced DOM traversal using children, parentElement, and sibling navigation
 - three.html – Dynamically created and styled elements using createElement and appendChild
+- four.html – Learned the concepts to edit and remove elements in DOM
 
 ## Notes
 
