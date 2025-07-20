@@ -48,6 +48,9 @@ This folder contains my JavaScript practice files where I'm learning and experim
 - three.html – Dynamically created and styled elements using createElement and appendChild
 - four.html – Learned the concepts to edit and remove elements in DOM
 
+**07_Projects/**
+- 01_ColorSwitcher – Color switcher with clickable boxes using DOM and Event basics
+
 ## Notes
 
 - This is just my personal learning space.
