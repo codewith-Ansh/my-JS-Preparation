@@ -51,6 +51,7 @@ This folder contains my JavaScript practice files where I'm learning and experim
 **07_Projects/**
 - 01_ColorSwitcher – Color switcher with clickable boxes using DOM and Event basics
 - 02_BMI_Calculator – Simple BMI calculator using DOM
+- 03_DigitalClock – Digital clock using Date function and DOM
 
 ## Notes
 
