@@ -54,6 +54,10 @@ This folder contains my JavaScript practice files where I'm learning and experim
 - 03_DigitalClock – Digital clock using Date function and DOM
 - 04_GuessTheNumber – Simple number guessing game built with JavaScript DOM, events, and validation.
 
+**08_Events/**
+- 01.html – event listeners, event bubbling & capturing, stopPropagation, preventDefault, dynamic element removal
+- eventsBasics.js – JS event handling practice
+
 ## Notes
 
 - This is just my personal learning space.
