@@ -53,7 +53,7 @@ This folder contains my JavaScript practice files where I'm learning and experim
 - 02_BMI_Calculator – Simple BMI calculator using DOM
 - 03_DigitalClock – Digital clock using Date function and DOM
 - 04_GuessTheNumber – Simple number guessing game built with JavaScript DOM, events, and validation.
-- 06_UnlimitedColors – Simple project that changes the background color every second, with start/stop controls
+- 06_UnlimitedColors – Simple project that changes the background color every second, with start and stop controls
 
 **08_Events/**
 - 01.html – event listeners, event bubbling & capturing, stopPropagation, preventDefault, dynamic element removal
