@@ -62,6 +62,9 @@ This folder contains my JavaScript practice files where I'm learning and experim
 - 03.html – Async JS - setInterval and clearInterval
 - eventsBasics.js – JS event handling practice
 
+**09_api_promises**
+- ApiRequest.html – XMLHttpRequest, API calls, readyState, and JSON parsing.
+
 ## Notes
 
 - This is just my personal learning space.
