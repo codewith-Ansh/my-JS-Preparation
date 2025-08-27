@@ -66,6 +66,9 @@ This folder contains my JavaScript practice files where I'm learning and experim
 - ApiRequest.html – XMLHttpRequest, API calls, readyState, and JSON parsing.
 - Promises.js – Promise Creation, Promise Consumption, Async Operations, try and catch,Async/Await, API Fetching, JSON Parsing
 
+**10_OOP**
+- oop.js – Objects, this, Methods, Constructor Functions, OOP
+
 ## Notes
 
 - This is just my personal learning space.
