@@ -70,6 +70,8 @@ This folder contains my JavaScript practice files where I'm learning and experim
 - oop.js – Objects, this, Methods, Constructor Functions, OOP
 - Object.js – this, new and protoype in js
 - Prototype.js – Prototypes, Prototype Inheritance, Prototype Chaining, Custom Prototype Methods
+- call.js – this and call (constructor chaining)
+
 ## Notes
 
 - This is just my personal learning space.
