@@ -71,6 +71,10 @@ This folder contains my JavaScript practice files where I'm learning and experim
 - Object.js – this, new and protoype in js
 - Prototype.js – Prototypes, Prototype Inheritance, Prototype Chaining, Custom Prototype Methods
 - call.js – this and call (constructor chaining)
+- Classes.js – class and creating objects from it
+- Inheritance.js – Inheritance in JS (constructor, super and this)
+- staticProperties.js – static keyword and functions
+- bind.html – bind() method and its this context
 
 ## Notes
 
