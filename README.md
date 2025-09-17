@@ -75,6 +75,10 @@ This folder contains my JavaScript practice files where I'm learning and experim
 - Inheritance.js – Inheritance in JS (constructor, super and this)
 - staticProperties.js – static keyword and functions
 - bind.html – bind() method and its this context
+- mathpi.js – Object.getOwnPropertyDescriptor, Object.defineProperty, property descriptors, Object.entries
+- Getter_Setter.js – class example with constructor and getters/setters
+- properties_getter_setter.js – constructor function with Object.defineProperty example
+- Object_getter_setter.js – class fields and Object.create prototype example
 
 ## Notes
 
