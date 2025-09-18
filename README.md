@@ -43,10 +43,10 @@ This folder contains my JavaScript practice files where I'm learning and experim
 - 08_reduce.js – reduce method, accumulator and result
 
 **06_dom/**
-- one.html – Explored element selection by id/class, innerText vs textContent, and styling
-- two.html – Practiced DOM traversal using children, parentElement, and sibling navigation
-- three.html – Dynamically created and styled elements using createElement and appendChild
-- four.html – Learned the concepts to edit and remove elements in DOM
+- one.html – Element selection by id/class, innerText vs textContent, and styling
+- two.html – DOM traversal using children, parentElement, and sibling navigation
+- three.html – Dynamic creation of elements using createElement and appendChild
+- four.html – Edit and remove elements in DOM
 
 **07_Projects/**
 - 01_ColorSwitcher – Color switcher with clickable boxes using DOM and Event basics
@@ -79,6 +79,9 @@ This folder contains my JavaScript practice files where I'm learning and experim
 - Getter_Setter.js – class example with constructor and getters/setters
 - properties_getter_setter.js – constructor function with Object.defineProperty example
 - Object_getter_setter.js – class fields and Object.create prototype example
+
+**11_fun_with_js**
+- closure.html – closure and lexical scoping
 
 ## Notes
 
